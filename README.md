@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 # ✨ My Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gundue)](https://github.com/anuraghazra/github-readme-stats)
 
+
+# 🔭 My Stats
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![js](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
